@@ -28,3 +28,11 @@ button {
 button:hover {
   background-color: #0056b3;
 }
+h1 {
+  color: #007bff;
+}
+
+/* aa h1 vadi line aetle ke 31 to 33 number ni line tyarej lakhvi 
+jyare urvashi branch ma change kari pachi urvashi and main branch
+no code merje karvo hoy aa 3 line lakhi ne urvashi vadi branch ma push
+karvo code but main ma push na karvo */
